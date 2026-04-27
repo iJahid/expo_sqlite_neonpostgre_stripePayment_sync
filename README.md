@@ -2,12 +2,14 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 It include
-1. Google Authentication
-2. Email and Password login/signup
-3. SQL lite local database
-4. Neon PostgreSQL serverless Online Database
-5. Both way Sync
-6. Strip Payment Methode for VISA/MASTER etc.
+
+1. Tailwind CSS
+2. Google Authentication
+3. Email and Password login/signup
+4. SQL lite local database
+5. Neon PostgreSQL serverless Online Database
+6. Both way Sync
+7. Strip Payment Methode for VISA/MASTER etc.
    
 ## Get started
 
